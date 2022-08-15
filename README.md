@@ -1,2 +1,2 @@
 # recipe
-How to cook
+Learn how to cook!
