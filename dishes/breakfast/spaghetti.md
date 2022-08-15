@@ -20,5 +20,4 @@
 黄油，芝士等原料的量因人而异
 
 ## Instance
-
-<img src="imgs/spaghetti.jpeg" style="transform:rotate(-90deg)">
+![](imgs/spaghetti.jpeg)
